@@ -40,9 +40,12 @@ Candidates are ranked from highest to lowest relevance.
 | candidate2.pdf | 0.74 |
 | candidate3.pdf | 0.61 |
 
-Higher score indicates stronger semantic match with the job description.
-## Running the Project
-Install dependencies:
-pip install -r requirements.txt
-Run the application:
-streamlit run app.py
+## Live Demo
+
+Try the application here:
+https://resumee-screenerrrr.streamlit.app/
+## Application Preview
+
+
+<img width="1893" height="955" alt="Screenshot 2026-03-09 165222" src="https://github.com/user-attachments/assets/401cffb2-c9c8-4626-88e6-52aa2a55b5c1" />
+
