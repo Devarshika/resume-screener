@@ -12,7 +12,7 @@ def load_model():
 
 model = load_model()
 
-st.title("AI-Assisted Resume Screening System")
+st.title("AI Resume Screening System")
 st.markdown("Upload resumes and compare them against a job description using semantic similarity.")
 
 uploaded_files = st.file_uploader(
